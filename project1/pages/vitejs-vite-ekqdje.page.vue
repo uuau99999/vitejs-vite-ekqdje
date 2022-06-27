@@ -9,6 +9,6 @@
 </template>
 
 <script setup>
-import 'assets/style.css';
-import DateSvg from 'assets/ico-svg-data.svg?component';
+import "assets/style.css";
+import DateSvg from "assets/ico-svg-date.svg?component";
 </script>
