@@ -1,3 +1,7 @@
 # vitejs-vite-ekqdje
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-ekqdje)
+How to reproduce
+
+- cd project1 
+- npm install
+- npm run start 
